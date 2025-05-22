@@ -2,6 +2,9 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+<h1>About me!!</h1>
+My name is Pedro Velasco, and I'm an enthusiastic and results-oriented professional. As a web developer with over eight years of experience in the industry, both freelance and full-time, I'm familiar with creating and maintaining websites using HTML, CSS, JavaScript, and a development environment based on Linux, Apache, PHP, MySQL, and Postgres.
+
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
