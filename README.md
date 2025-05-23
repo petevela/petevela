@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<h1>About me!!</h1>
+<h1 style="color: red;">About me!!</h1>
 My name is Pedro Velasco, and I'm an enthusiastic and results-oriented professional. As a web developer with over eight years of experience in the industry, both freelance and full-time, I'm familiar with creating and maintaining websites using HTML, CSS, JavaScript, and a development environment based on Linux, Apache, PHP, MySQL, and Postgres.
 
 ## 🛠 &nbsp;Tech Stack
@@ -44,3 +44,22 @@ My name is Pedro Velasco, and I'm an enthusiastic and results-oriented professio
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+
+<br>
+<h3 class="heading-element" dir="auto">⚙️ &nbsp;GitHub Analytics</h3>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=petevela&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+    </td>
+    <td>
+      <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=petevela&theme=dark" alt="anii693" /></p>
+    </td>
+  </tr>
+</table>
+
+
