@@ -62,4 +62,8 @@ My name is Pedro Velasco, and I'm an enthusiastic and results-oriented professio
   </tr>
 </table>
 
+## Connect with me. :smiley:
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-velasco-9b8a0b2a3/)
+
+
 
